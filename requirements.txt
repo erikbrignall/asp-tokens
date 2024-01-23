@@ -1,4 +1,2 @@
-openai
 pandas
-urllib
 streamlit
