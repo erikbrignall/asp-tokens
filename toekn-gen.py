@@ -4,7 +4,7 @@ import json
 import streamlit as st
 import hmac
 
-st.header('Alexa Smart Properties Token generation')
+st.header('Enter password for a new token')
 
 def check_password():
     """Returns `True` if the user had the correct password."""
